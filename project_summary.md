@@ -39,22 +39,6 @@ Our project attempts to answer this question.
 
 This project, presented to DevArt , intends to meet ( in record time ! ) The first three goals.
 
-##Project Journal
-
-Rio de Janeiro, GMT 21:34:00
-
-I get aware of DevART just today on the morning. I thought it would hold something start a trial under these conditions: the deadline to complete the project runs out tomorrow, 18:00 GMT.
-
-This gives me less than 20 hours to close the project.
-
-I understand that 20 hours is not enough to do anything. :/
-
-But the definition of a project is an effort that aims a result and even a failure is a result. Let's get some coffe and make this attempt.
-
-Let's start considering the first objective: definition of the file format.
-
-I hope to report my findings every two hours.
-
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
