@@ -20,3 +20,4 @@ But the definition of a project is an effort that aims a result and even a failu
 Let's start considering the first objective: definition of the file format.
 
 I hope to report my findings every two hours.
+
